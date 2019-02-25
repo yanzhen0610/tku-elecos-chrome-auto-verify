@@ -2,8 +2,8 @@
 
 ## How to?
 
-1. Change variable `username` to your studend ID. *(const username = '123456')*
-2. Change variable `password` to your SSO password. *(const password = 'password)*
+1. Change variable `username` to your studend ID. *(`const username = '123456'`)*
+2. Change variable `password` to your SSO password. *(`const password = 'password'`)*
 3. Create a bookmark in your Chrome and copy the following code to the field named `URL`
 4. Go to [`http://www.ais.tku.edu.tw/EleCos/login.aspx`](http://www.ais.tku.edu.tw/EleCos/login.aspx) then click the bookmark which you just created.
 
